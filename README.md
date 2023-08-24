@@ -1,2 +1,16 @@
 # IP_UNLOCKER
 THIS IS A IP UNBLOCKER TOOL WHICH IS USED TO UNBLOCK YOUR IP AND YOU HAVE ENJOY A CLONE LIKE FUCK😈
+INSTILLATIONS PROCESS:-.....
+
+rm -rf IP_UNLOCKER
+
+git clone https://github.com/ULTRA-ADNAN-404/IP_UNLOCKER
+
+cd IP_UNLOCKER
+
+python ip_unblock_enc.py
+
+LOVE TO ALL❤️
+ᴀɴxɪᴏᴜꜱxᴀᴅɴᴀɴ
+
+ａｎｘｉｏｕｓｘａｄｎａｎ🖤
